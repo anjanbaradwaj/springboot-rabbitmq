@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: springboot-rabbitmq-demo
+  rabbitmq:
+    host:
+    port:
+    username:
+    password:
+rabbitmq:
+  queue:
+    name:
+  exchange:
+    name:
+  routing:
+    key:
+  json:
+    queue:
+      name:
+    routing:
+      key:
